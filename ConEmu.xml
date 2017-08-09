@@ -51,6 +51,50 @@
 			<value name="WindowMode" type="dword" data="00000520"/>
 			<value name="HideCaption" type="hex" data="01"/>
 			<value name="Min2Tray" type="hex" data="01"/>
+			<key name="Colors">
+				<value name="Count" type="dword" data="00000001"/>
+				<key name="Palette1">
+					<value name="Name" type="string" data="Monokai Far"/>
+					<value name="ColorTable00" type="dword" data="00222827"/>
+					<value name="ColorTable01" type="dword" data="00423607"/>
+					<value name="ColorTable02" type="dword" data="0004aa74"/>
+					<value name="ColorTable03" type="dword" data="00837b65"/>
+					<value name="ColorTable04" type="dword" data="003403a7"/>
+					<value name="ColorTable05" type="dword" data="009c5689"/>
+					<value name="ColorTable06" type="dword" data="0049b6b6"/>
+					<value name="ColorTable07" type="dword" data="00cacaca"/>
+					<value name="ColorTable08" type="dword" data="007c7c7c"/>
+					<value name="ColorTable09" type="dword" data="00f58303"/>
+					<value name="ColorTable10" type="dword" data="0006d08d"/>
+					<value name="ColorTable11" type="dword" data="0098a12a"/>
+					<value name="ColorTable12" type="dword" data="004b04f3"/>
+					<value name="ColorTable13" type="dword" data="00b87da8"/>
+					<value name="ColorTable14" type="dword" data="000089b5"/>
+					<value name="ColorTable15" type="dword" data="00ffffff"/>
+					<value name="ColorTable16" type="dword" data="00000000"/>
+					<value name="ColorTable17" type="dword" data="00800000"/>
+					<value name="ColorTable18" type="dword" data="00008000"/>
+					<value name="ColorTable19" type="dword" data="00808000"/>
+					<value name="ColorTable20" type="dword" data="00000080"/>
+					<value name="ColorTable21" type="dword" data="00800080"/>
+					<value name="ColorTable22" type="dword" data="00008080"/>
+					<value name="ColorTable23" type="dword" data="00c0c0c0"/>
+					<value name="ColorTable24" type="dword" data="00808080"/>
+					<value name="ColorTable25" type="dword" data="00ff0000"/>
+					<value name="ColorTable26" type="dword" data="0000ff00"/>
+					<value name="ColorTable27" type="dword" data="00ffff00"/>
+					<value name="ColorTable28" type="dword" data="000000ff"/>
+					<value name="ColorTable29" type="dword" data="00ff00ff"/>
+					<value name="ColorTable30" type="dword" data="0000ffff"/>
+					<value name="ColorTable31" type="dword" data="00ffffff"/>
+					<value name="ExtendColors" type="hex" data="00"/>
+					<value name="ExtendColorIdx" type="hex" data="0e"/>
+					<value name="TextColorIdx" type="hex" data="10"/>
+					<value name="BackColorIdx" type="hex" data="10"/>
+					<value name="PopTextColorIdx" type="hex" data="10"/>
+					<value name="PopBackColorIdx" type="hex" data="10"/>
+				</key>
+			</key>
 			<key name="Tasks">
 				<value name="Count" type="long" data="16"/>
 				<key name="Task1">
@@ -208,7 +252,7 @@
 				<key name="App1">
 					<value name="AppNames" type="string" data="far.exe"/>
 					<value name="OverridePalette" type="hex" data="01"/>
-					<value name="PaletteName" type="string" data="&lt;Solarized&gt;"/>
+					<value name="PaletteName" type="string" data="Monokai Far"/>
 				</key>
 				<key name="App2">
 					<value name="AppNames" type="string" data="vim.exe"/>
