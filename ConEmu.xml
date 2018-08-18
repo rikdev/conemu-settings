@@ -18,7 +18,6 @@
 			<value name="ColorTable13" type="dword" data="00b87da8"/>
 			<value name="ColorTable14" type="dword" data="0081cccc"/>
 			<value name="ColorTable15" type="dword" data="00ffffff"/>
-			<value name="SingleInstance" type="hex" data="01"/>
 			<value name="KeyboardHooks" type="hex" data="01"/>
 			<value name="Update.CheckOnStartup" type="hex" data="01"/>
 			<value name="Update.CheckHourly" type="hex" data="00"/>
