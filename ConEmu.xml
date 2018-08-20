@@ -162,6 +162,7 @@
 			</key>
 			<key name="HotKeys">
 				<value name="MinimizeRestore" type="dword" data="00005bc0"/>
+				<value name="Multi.CmdKey" type="dword" data="00005b0d"/>
 				<value name="Multi.Recreate" type="dword" data="00005bbd"/>
 			</key>
 			<key name="Apps">
